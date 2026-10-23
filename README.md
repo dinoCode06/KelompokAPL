@@ -13,10 +13,11 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 
 | No | Stambuk | Nama | Akun GitHub | Kode yang dikerjakan |
 |---|---|---|---|---|
-| 1 | | | @ | |
-| 2 | | | @ | |
-| 3 | | | @ | |
-| 4 | | | @ | |
+| 1 | 13020240089 | Aldino Jonathan | @ | |
+| 2 | 13020240115 | Ihyanul Hakim | @ | |
+| 3 | 13020240117 | Muh. Fajrin | @ | |
+| 4 | 13020240302 | Muhammad Fadhil Aqila Salzabil | @ | |
+| 5 | 13020240310 | Ahmad Farhansyah Mulyadi | @ | |
 
 ## Peta berkas dan penanggung jawab
 
