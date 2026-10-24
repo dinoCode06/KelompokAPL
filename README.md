@@ -15,7 +15,7 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 |---|---|---|---|---|
 | 1 | 13020240089 | Aldino Jonathan | @dinoCode06 | A1,A3,A5 |
 | 2 | 13020240115 | Ihyanul Hakim | @kifukata |A2,B2,B4 |
-| 3 | 13020240117 | Muh. Fajrin | @Fajrin117 | |
+| 3 | 13020240117 | Muh. Fajrin | @Fajrin117 |BAB1,A4,B1 |
 | 4 | 13020240302 | Muhammad Fadhil Aqila Salzabil | @fadhil-711 | |
 | 5 | 13020240310 | Ahmad Farhansyah Mulyadi | @ | |
 
@@ -29,7 +29,7 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | A1 | laporan/A1-konteks-arsitektur.md |Aldino Jonathan| Sudah |
 | A2 | laporan/A2-stakeholder.md |Ihyanul Hakim| Selesai |
 | A3 | laporan/A3-batasan.md |Aldino Jonathan| Belum |
-| A4 | laporan/A4-asr.md |Muh. Fajrin | Belum |
+| A4 | laporan/A4-asr.md |Muh. Fajrin | Selesai |
 | A5 | laporan/A5-keputusan-arsitektur.md dan adr/ |Aldino Jonathan| Belum |
 | B1 | laporan/B1-karakteristik.md |Muh. Fajrin | Selesai  |
 | B2 | laporan/B2-atribut-terukur.md |Ihyanul Hakim| Belum |
