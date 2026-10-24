@@ -13,7 +13,4 @@ Penanggung jawab : Ihyanul hakim
 
 ##
 ![A2-peta-power-interest.png.png](../diagram/A2-peta-power-interest.png.png)
-<!-- Penanggung jawab: [nama] -->
-<!-- Yang diminta: Stakeholder register minimal 6 stakeholder dari lima kelompok, ditambah peta power/interest (gambar dari folder diagram/). -->
-<!-- Hapus komentar ini setelah bagian selesai. -->
 
