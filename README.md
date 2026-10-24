@@ -1,4 +1,4 @@
-# Tugas Kelompok 1 – Arsitektur Perangkat Lunak (2 KKA 512)
+# Tugas Bagian III Kelompok III – Arsitektur Perangkat Lunak (2 KKA 512)
 
 Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & Atribut Kualitas (Pertemuan 6).
 
