@@ -10,7 +10,9 @@ Penanggung jawab : Ihyanul hakim
 | **S4** | **Tim IT Support & Infrastruktur Kampus** | Tim Operasional | Pemelihara server, jaringan, dan *helpdesk* teknis | • Pemantauan kapasitas server (*server load*) dan penyimpanan file berkas wisuda.<br>• Sistem *backup* rutin dan log *error* untuk penanganan kendala teknis. | **Maintainability & Scalability:** Sistem mudah dipantau (*monitoring*) dan kapasitas penyimpanan dokumen teroptimasi. | **Rendah** |
 | **S5** | **Wakil Rektor Bidang Akademik (WR I) & Kepala BAAK** | Manajer Bisnis | Pemilik proses bisnis (*Process Owner*) & penentu kebijakan akademik | • *Dashboard* eksekutif untuk memantau jumlah pendaftar, keterisian kuota jadwal wisuda, dan progres verifikasi berkas.<br>• Otorisasi penetapan jadwal wisuda dan pengesahan daftar lulusan penerima ijazah. | **Data Integrity & Security:** Data lulusan 100% valid dan konsisten, keamanan akses berbasis peran (*Role-Based Access Control*), serta patuh kalender akademik. | **Sangat Tinggi** |
 | **S6** | **Kemdiktisaintek (PDDikti & Sistem PISN)** | Pihak Eksternal | Regulator nasional penomoran & keabsahan ijazah | • Sinkronisasi data kelulusan mahasiswa dengan PDDikti.<br>• Pemenuhan syarat pengajuan **PIN (Penomoran Ijazah Nasional)** agar ijazah sah dan terdaftar secara nasional. | **Interoperability & Compliance:** Format data ekspor/API sesuai standar skema PDDikti/PISN dan validasi syarat SKS/masa studi terpenuhi. | **Tinggi** |
-![A2-peta-power-interest.png.png](diagram/A2-peta-power-interest.png.png)
+
+##
+![A2-peta-power-interest.png.png](../diagram/A2-peta-power-interest.png.png)
 <!-- Penanggung jawab: [nama] -->
 <!-- Yang diminta: Stakeholder register minimal 6 stakeholder dari lima kelompok, ditambah peta power/interest (gambar dari folder diagram/). -->
 <!-- Hapus komentar ini setelah bagian selesai. -->
