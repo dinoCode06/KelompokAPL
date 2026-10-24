@@ -1,10 +1,5 @@
 # A1. Analisis Empat Konteks Arsitektur
 
-<!-- Penanggung jawab: [Aldino Jonathan] -->
-<!-- Yang diminta: Tabel 4 baris (teknis, siklus hidup proyek, bisnis, profesional): kondisi subsistem pada tiap konteks dan pengaruhnya pada arsitektur. -->
-<!-- Hapus komentar ini setelah bagian selesai. -->
-
-
 | No. | Konteks | Kondisi Subsistem | Pengaruh terhadap Arsitektur |
 |---|---|---|---|
 | 1 | Teknis | Subsistem menggunakan teknologi, perangkat lunak, perangkat keras, dan basis data yang mungkin berbeda. | Arsitektur harus memastikan kompatibilitas, integrasi, keamanan, dan kinerja antar-sub sistem. |
