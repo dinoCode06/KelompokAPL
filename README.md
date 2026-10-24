@@ -14,7 +14,7 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 | No | Stambuk | Nama | Akun GitHub | Kode yang dikerjakan |
 |---|---|---|---|---|
 | 1 | 13020240089 | Aldino Jonathan | @dinoCode06 | A1,A3,A5 |
-| 2 | 13020240115 | Ihyanul Hakim | @kifukata |A2 |
+| 2 | 13020240115 | Ihyanul Hakim | @kifukata |A2,B2,B4 |
 | 3 | 13020240117 | Muh. Fajrin | @Fajrin117 | |
 | 4 | 13020240302 | Muhammad Fadhil Aqila Salzabil | @fadhil-711 | |
 | 5 | 13020240310 | Ahmad Farhansyah Mulyadi | @ | |
@@ -31,7 +31,7 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | A3 | laporan/A3-batasan.md |Aldino Jonathan| Belum |
 | A4 | laporan/A4-asr.md |Muh. Fajrin | Belum |
 | A5 | laporan/A5-keputusan-arsitektur.md dan adr/ |Aldino Jonathan| Belum |
-| B1 | laporan/B1-karakteristik.md |Muh. Fajrin | Belum |
+| B1 | laporan/B1-karakteristik.md |Muh. Fajrin | Selesai  |
 | B2 | laporan/B2-atribut-terukur.md |Ihyanul Hakim| Belum |
 | B3 | laporan/B3-tiga-struktur.md dan diagram/ | Fadhil | Belum |
 | B4 | laporan/B4-iso-25010.md |Ihyanul Hakim| Belum |
