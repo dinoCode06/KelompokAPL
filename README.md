@@ -7,7 +7,7 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 | Kelompok | Bagian III – Kelompok III |
 | Subsistem | Academic Management |
 | Layanan inti | Layanan wisuda dan jasa: pendaftaran, verifikasi berkas, jadwal, dan pengambilan jasa |
-| Perwakilan kelompok | [nama, stambuk] |
+| Perwakilan kelompok | [Aldino Jonathan, 13020240089] |
 
 ## Anggota
 
