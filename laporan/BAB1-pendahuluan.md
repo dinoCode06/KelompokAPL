@@ -31,4 +31,14 @@ Ruang lingkup subsistem Academic Management difokuskan pada layanan wisuda dan i
 
 
 ## 1.3 Sumber data
+
+### 1. Pengalaman sebagai Pengguna
+
+Pengumpulan data dilakukan dengan mencoba sendiri layanan akademik yang tersedia, seperti SIAKAD, SPADA UMI-Kalam, atau layanan lain yang relevan. Kelompok mencatat alur penggunaan, kendala yang ditemukan, serta mengumpulkan tangkapan layar sebagai dokumentasi pendukung. Pengamatan difokuskan pada proses pendaftaran wisuda, verifikasi berkas, informasi jadwal wisuda, dan pengambilan ijazah, sejauh layanan tersebut dapat diakses.
+
+### 2. Informasi Publik
+
+Data juga diperoleh dari informasi publik yang diterbitkan oleh Universitas Muslim Indonesia melalui situs resmi [umi.ac.id](https://umi.ac.id), panduan akademik, pengumuman wisuda, dan peraturan yang relevan. Informasi tersebut digunakan untuk memahami persyaratan administrasi, prosedur layanan, jadwal wisuda, dan ketentuan pengambilan ijazah.
+
+
 <!-- Pengalaman pengguna, informasi publik, wawancara responden. Tanpa identitas pribadi. -->
