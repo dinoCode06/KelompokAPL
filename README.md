@@ -26,7 +26,7 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | Kode | Berkas | Penanggung jawab | Status |
 |---|---|---|---|
 | BAB I | laporan/BAB1-pendahuluan.md |Muh. Fajrin | Belum |
-| A1 | laporan/A1-konteks-arsitektur.md |Aldino Jonathan| Belum |
+| A1 | laporan/A1-konteks-arsitektur.md |Aldino Jonathan| Sudah |
 | A2 | laporan/A2-stakeholder.md |Ihyanul Hakim| Selesai |
 | A3 | laporan/A3-batasan.md |Aldino Jonathan| Belum |
 | A4 | laporan/A4-asr.md |Muh. Fajrin | Belum |
