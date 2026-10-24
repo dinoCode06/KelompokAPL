@@ -33,10 +33,10 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | A5 | laporan/A5-keputusan-arsitektur.md dan adr/ |Aldino Jonathan| Belum |
 | B1 | laporan/B1-karakteristik.md |Muh. Fajrin | Belum |
 | B2 | laporan/B2-atribut-terukur.md |Ihyanul Hakim| Belum |
-| B3 | laporan/B3-tiga-struktur.md dan diagram/ | | Belum |
+| B3 | laporan/B3-tiga-struktur.md dan diagram/ | Fadhil | Belum |
 | B4 | laporan/B4-iso-25010.md |Ihyanul Hakim| Belum |
-| B5 | laporan/B5-trade-off.md | | Belum |
-| BAB IV | laporan/BAB4-penutup.md | | Belum |
+| B5 | laporan/B5-trade-off.md | Fadhil | Belum |
+| BAB IV | laporan/BAB4-penutup.md | Fadhil | Belum |
 | Pustaka | laporan/daftar-pustaka.md | | Belum |
 
 ## Laporan PDF terakhir
