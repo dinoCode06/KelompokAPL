@@ -25,13 +25,13 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 
 | Kode | Berkas | Penanggung jawab | Status |
 |---|---|---|---|
-| BAB I | laporan/BAB1-pendahuluan.md |Muh. Fajrin Belum |
+| BAB I | laporan/BAB1-pendahuluan.md |Muh. Fajrin | Belum |
 | A1 | laporan/A1-konteks-arsitektur.md |Aldino Jonathan| Belum |
 | A2 | laporan/A2-stakeholder.md |Ihyanul Hakim| Belum |
 | A3 | laporan/A3-batasan.md |Aldino Jonathan| Belum |
-| A4 | laporan/A4-asr.md |Muh. Fajrin Belum |
+| A4 | laporan/A4-asr.md |Muh. Fajrin | Belum |
 | A5 | laporan/A5-keputusan-arsitektur.md dan adr/ |Aldino Jonathan| Belum |
-| B1 | laporan/B1-karakteristik.md |Muh. Fajrin Belum |
+| B1 | laporan/B1-karakteristik.md |Muh. Fajrin | Belum |
 | B2 | laporan/B2-atribut-terukur.md |Ihyanul Hakim| Belum |
 | B3 | laporan/B3-tiga-struktur.md dan diagram/ | | Belum |
 | B4 | laporan/B4-iso-25010.md |Ihyanul Hakim| Belum |
