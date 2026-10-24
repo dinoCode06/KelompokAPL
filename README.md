@@ -5,8 +5,8 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 | Keterangan | Isi |
 |---|---|
 | Kelompok | Bagian III – Kelompok III |
-| Subsistem | Layanan wisuda dan jasa: pendaftaran, verifikasi berkas, jadwal, dan pengambilan jasa
-| Layanan inti | [salin dari tabel 2.2 pada dokumen tugas] |
+| Subsistem | Academic Management |
+| Layanan inti | Layanan wisuda dan jasa: pendaftaran, verifikasi berkas, jadwal, dan pengambilan jasa |
 | Perwakilan kelompok | [nama, stambuk] |
 
 ## Anggota
