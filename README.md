@@ -13,7 +13,7 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 
 | No | Stambuk | Nama | Akun GitHub | Kode yang dikerjakan |
 |---|---|---|---|---|
-| 1 | 13020240089 | Aldino Jonathan | @dinoCode06 | |
+| 1 | 13020240089 | Aldino Jonathan | @dinoCode06 | A1,A3,A5 |
 | 2 | 13020240115 | Ihyanul Hakim | @kifukata |A2 |
 | 3 | 13020240117 | Muh. Fajrin | @Fajrin117 | |
 | 4 | 13020240302 | Muhammad Fadhil Aqila Salzabil | @fadhil-711 | |
