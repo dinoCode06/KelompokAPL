@@ -16,7 +16,7 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 | 1 | 13020240089 | Aldino Jonathan | @dinoCode06 | A1,A3,A5 |
 | 2 | 13020240115 | Ihyanul Hakim | @kifukata |A2,B2,B4 |
 | 3 | 13020240117 | Muh. Fajrin | @Fajrin117 |BAB1,A4,B1 |
-| 4 | 13020240302 | Muhammad Fadhil Aqila Salzabil | @fadhil-711 | |
+| 4 | 13020240302 | Muhammad Fadhil Aqila Salzabil | @fadhil-711 | B3,B5,BABIV |
 | 5 | 13020240310 | Ahmad Farhansyah Mulyadi | @ahmadfarhansyah6-sketch | |
 
 ## Peta berkas dan penanggung jawab
