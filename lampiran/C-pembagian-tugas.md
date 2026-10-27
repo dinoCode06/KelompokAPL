@@ -8,7 +8,7 @@ Cara mengambil tautan: buka tab **Commits**, klik commit yang dimaksud, salin al
 |---|---|---|---|---|---|---|
 | Ct. | 13020240000 | (Contoh) Ani | A2, A3 | Menyusun register 6 stakeholder dan peta power/interest; menulis batasan teknologi, bisnis, dan operasional | Riwayat berkas laporan/A2-stakeholder.md (tautan); commit "[A3] tambah batasan" (tautan) | Selesai |
 | 1 | 13020240115 | Ihyanul Hakim | A2, B2, B4 | Menyusun register 6 stakeholder dan peta power/interest;  Mencari 3 karakteristik pendorong yaitu angka target, kondisi pengukuran, dan cara mengujinya; Memetakan tabel karakteristik pendorong ke karakteristik mutu produk ISO/IEC 25010  | Riwayat berkas laporan/A2-stakeholder.md ([Lihat Commit Stakeholder Register](../laporan/A2-stakeholder.md)); [B2] Atribut terukur ([Lihat Commit Atribut Terukur](../laporan/B2-atribut-terukur.md); [B4]  ISO 25010([Lihat Committ ISO 25010](../laporan/B4-iso-25010.md);| Selesai |
-| 2 | 13020240089 | Aldino Jonathan | A1 | | Riwayat berkas laporan/ A1-konteks-arsitektur.md ([Lihat Commit konteks-arsitektur](https://github.com/dinoCode06/KelompokAPL/commit/d3568ddca73771db78f8d9dd4df1ef065f860e30));| Selesai |
+| 2 | 13020240089 | Aldino Jonathan | A1,A3 | | Riwayat berkas laporan/ A1-konteks-arsitektur.md ([Lihat Commit konteks-arsitektur](https://github.com/dinoCode06/KelompokAPL/commit/d3568ddca73771db78f8d9dd4df1ef065f860e30));[A3] batasan ([Lihat Commit Batasan](https://github.com/dinoCode06/KelompokAPL/commit/d6f3bf7b627d9f556e540f37ea3f42e6094c7377)); | Selesai |
 | 3 | | | | | | |
 | 4 | | | | | | |
 | 5 | | | | | | |
