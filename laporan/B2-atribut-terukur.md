@@ -1,6 +1,12 @@
 # B2. Atribut Kualitas yang Terukur
 
-<!-- Penanggung jawab: [nama] -->
-<!-- Yang diminta: Untuk 3 karakteristik pendorong: angka target, kondisi pengukuran, dan cara mengukur. -->
-<!-- Hapus komentar ini setelah bagian selesai. -->
+Penanggung jawab : Ihyanul Hakim
+
+
+| No | Karakteristik Pendorong | Pernyataan Ukuran (Ringkasan) | Angka Target | Kondisi Pengukuran | Cara Mengujinya |
+| :-: | :--- | :--- | :--- | :--- | :--- |
+| **1** | **Efisiensi Kinerja**<br>*(Performance Efficiency - Time Behavior)* | 95% halaman pendaftaran wisuda dan proses unggah berkas tampil serta selesai diproses dalam waktu **< 3 detik** saat **2.000 mahasiswa** mengakses bersamaan. | • *Response time* (P95) halaman **< 3 detik**.<br>• Proses unggah berkas (maks 2 MB) **< 5 detik**.<br>• *Error rate* **< 1%**. | Saat jam puncak (*peak hour*) pembukaan pendaftaran wisuda dan pemilihan kuota jadwal sesi, dengan beban **2.000 pengguna aktif bersamaan** (*concurrent users*) yang mengunggah berkas PDF/JPG. | **Load Testing** menggunakan **Apache JMeter** atau **k6** di lingkungan *staging* dengan mensimulasikan 2.000 *virtual users* selama 30 menit untuk mengukur P95 *response time* dan *error rate*. |
+| **2** | **Keandalan & Ketersediaan**<br>*(Reliability - Availability)* | Layanan pendaftaran, verifikasi berkas BAAK, dan penjadwalan pengambilan ijazah memiliki *uptime* minimal **99,5%** selama **14 hari** masa operasional wisuda. | • *Uptime* **≥ 99,5%** (maksimal *downtime* tak terencana **< 1,68 jam** dalam 14 hari).<br>• Waktu pemulihan (*MTTR*) **< 15 menit**. | Sistem berjalan 24/7 selama **14 hari periode kritis** pendaftaran wisuda, verifikasi/revisi berkas oleh Staf BAAK, hingga pengumuman jadwal dan antrean loket pengambilan ijazah. | **Synthetic Monitoring & Failover Testing** menggunakan **Prometheus + Grafana** / **UptimeRobot** yang mengecek *endpoint* tiap 1 menit, serta uji mematikan *service* untuk memastikan pemulihan otomatis < 15 menit. |
+| **3** | **Keamanan & Integritas Data**<br>*(Security - Integrity & Non-Repudiation)* | **100%** akses/pengubahan data ijazah tanpa otorisasi sah ditolak (**0% manipulasi data**), dan **100%** aktivitas verifikasi & pengambilan ijazah tercatat di *audit log* **< 1 detik**. | • **100%** akses ilegal diblokir (`HTTP 401/403`).<br>• **0%** perubahan pada data ijazah berstatus *Final/Terkunci*.<br>• **100%** pencatatan *audit trail* dalam **< 1 detik**. | Saat akun tanpa hak akses (misal: akun mahasiswa) mencoba mengakses API verifikasi BAAK/ubah data ijazah, serta saat Staf BAAK memvalidasi berkas dan serah terima ijazah di loket. | **RBAC & Security Testing** menggunakan **Postman** (uji tembak API lintas *role*) dan **OWASP ZAP**, disertai pengecekan langsung pada tabel `audit_logs` di *database* (memastikan ID petugas, waktu, IP, dan perubahan status tercatat). |
+
 
