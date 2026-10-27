@@ -32,9 +32,9 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | A4 | laporan/A4-asr.md |Muh. Fajrin | Selesai |
 | A5 | laporan/A5-keputusan-arsitektur.md dan adr/ |Aldino Jonathan| Belum |
 | B1 | laporan/B1-karakteristik.md |Muh. Fajrin | Selesai  |
-| B2 | laporan/B2-atribut-terukur.md |Ihyanul Hakim| Belum |
+| B2 | laporan/B2-atribut-terukur.md |Ihyanul Hakim| Selesai |
 | B3 | laporan/B3-tiga-struktur.md dan diagram/ | Fadhil | Belum |
-| B4 | laporan/B4-iso-25010.md |Ihyanul Hakim| Belum |
+| B4 | laporan/B4-iso-25010.md |Ihyanul Hakim| Selesai |
 | B5 | laporan/B5-trade-off.md | Fadhil | Belum |
 | BAB IV | laporan/BAB4-penutup.md | Fadhil | Belum |
 | Pustaka | laporan/daftar-pustaka.md | | Belum |
