@@ -7,21 +7,15 @@
 
 ## Context
 
-Sistem Layanan Wisuda BAA UMI membutuhkan pengelolaan data pendaftaran mahasiswa, dokumen persyaratan, hasil verifikasi, jadwal layanan, dan status pengambilan dokumen. Data harus konsisten, mudah ditelusuri, dan terlindungi dari akses yang tidak berwenang.
+Sistem Layanan Wisuda BAA UMI membutuhkan pengelolaan data mahasiswa, pendaftaran, dokumen persyaratan, hasil verifikasi, jadwal layanan, dan status pengambilan dokumen.
 
-Keputusan ini berkaitan dengan ASR pada A4, khususnya kebutuhan integritas data, keamanan informasi, dan kemudahan pemeliharaan. Pengelolaan data yang tidak terstruktur dapat menyebabkan duplikasi, kesalahan pencatatan, dan kesulitan dalam menelusuri status permohonan.
+Keputusan ini berkaitan dengan ASR pada A4 sebagai berikut:
 
-## Decision
+- **ASR-1 (Fungsional):** Kebutuhan login dan pengelolaan hak akses memengaruhi cara sistem membatasi akses terhadap data mahasiswa dan dokumen.
+- **ASR-2 (Atribut Kualitas):** Kebutuhan waktu respons cepat memengaruhi desain query, struktur tabel, dan pengambilan data.
+- **ASR-3 (Batasan):** Ketentuan organisasi mengenai teknologi atau basis data memengaruhi pemilihan sistem penyimpanan data.
 
-Kami akan menggunakan database relasional MySQL untuk menyimpan dan mengelola data sistem.
-
-Kami akan menerapkan:
-
-- **Relasi database:** Menghubungkan data pengguna, pendaftaran, dokumen, verifikasi, jadwal, dan pengambilan.
-- **Validasi data:** Memeriksa kelengkapan dan kesesuaian data sebelum disimpan.
-- **Kontrol akses:** Membatasi akses data berdasarkan peran mahasiswa dan admin.
-- **Keamanan dokumen:** Menyimpan berkas pada lokasi yang tidak dapat diakses langsung oleh publik.
-- **Log aktivitas:** Mencatat perubahan status penting untuk memudahkan penelusuran.
+Pengelolaan data yang tidak terstruktur dapat menyebabkan duplikasi, kesalahan pencatatan, dan kesulitan menelusuri status permohonan.
 
 ## Consequences
 
