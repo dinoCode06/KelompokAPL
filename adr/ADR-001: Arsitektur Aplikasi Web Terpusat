@@ -7,38 +7,42 @@
 
 ## Context
 
-Sistem Layanan Wisuda BAA UMI membutuhkan platform untuk mendukung pendaftaran wisuda, pengunggahan dokumen persyaratan, verifikasi berkas, penjadwalan, dan pengambilan dokumen.
+Sistem Layanan Wisuda BAA UMI membutuhkan platform untuk mendukung:
 
-Arsitektur harus mempertimbangkan kemudahan akses, pemeliharaan, keamanan, dan keterbatasan sumber daya pengembangan. Keputusan ini berkaitan dengan ASR pada A4, khususnya kebutuhan aksesibilitas layanan dan kemudahan pemeliharaan sistem.
+- Pendaftaran wisuda.
+- Pengunggahan dan verifikasi berkas.
+- Pengelolaan jadwal layanan.
+- Informasi pengambilan dokumen.
+
+Arsitektur harus mudah diakses, aman, dan mudah dipelihara. Keputusan ini berkaitan dengan ASR pada A4, terutama aksesibilitas dan pemeliharaan sistem.
 
 ## Decision
 
 Kami akan menggunakan arsitektur aplikasi web terpusat dengan komponen berikut:
 
-- **Frontend:** HTML, CSS, dan JavaScript untuk antarmuka pengguna.
-- **Backend:** PHP untuk menjalankan logika bisnis dan memproses permintaan.
-- **Database:** MySQL untuk menyimpan data pengguna, pendaftaran, jadwal, dan status layanan.
+- **Frontend:** HTML, CSS, dan JavaScript.
+- **Backend:** PHP untuk memproses logika bisnis.
+- **Database:** MySQL untuk menyimpan data sistem.
 - **Kontrol akses:** Pemisahan hak akses mahasiswa dan admin.
 
 ## Consequences
 
 **Dampak positif:**
-- Mahasiswa dan admin dapat mengakses sistem melalui browser.
-- Pengelolaan data dan pemeliharaan sistem lebih terpusat.
-- Fitur dapat dikembangkan secara bertahap.
-- Pembaruan sistem tidak memerlukan instalasi ulang pada perangkat pengguna.
+- Sistem dapat diakses melalui browser.
+- Pengelolaan data lebih terpusat.
+- Fitur lebih mudah dikembangkan.
+- Pembaruan sistem lebih mudah dilakukan.
 
 **Dampak negatif:**
-- Sistem bergantung pada server dan koneksi internet.
-- Gangguan server dapat memengaruhi seluruh pengguna.
-- Pemeliharaan keamanan dan pencadangan perlu dilakukan secara berkala.
+- Sistem bergantung pada server dan internet.
+- Gangguan server dapat memengaruhi pengguna.
+- Pemeliharaan keamanan perlu dilakukan berkala.
 
 **Trade-off:** Kemudahan akses dan pengelolaan terpusat dipilih dengan konsekuensi ketergantungan pada server.
 
 ## Compliance
 
-- Melakukan tinjauan kode untuk memastikan komponen sistem mengikuti arsitektur yang ditetapkan.
-- Menguji fungsi pendaftaran, verifikasi, penjadwalan, dan pengambilan dokumen.
-- Memastikan hak akses mahasiswa dan admin berjalan sesuai ketentuan.
-- Melakukan pemantauan server dan pencadangan data secara berkala.
-
+- Meninjau kode agar sesuai dengan arsitektur yang ditetapkan.
+- Menguji pendaftaran, verifikasi, dan penjadwalan.
+- Memastikan hak akses mahasiswa dan admin berjalan benar.
+- Melakukan pencadangan data secara berkala.
