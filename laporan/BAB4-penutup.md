@@ -1,7 +1,6 @@
 # BAB IV. Penutup
 
 <-- Kesimpulan dan saran. Penanggung jawab: [Muh Fadhil Aqila Salzabil] -->
-
 ## 4.1 Kesimpulan
 
 Berdasarkan hasil analisis dan perancangan arsitektur pada Layanan Pendaftaran dan Perubahan Plan (Core Subscription & Billing Subsystem), dapat disimpulkan bahwa:
