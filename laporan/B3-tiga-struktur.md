@@ -4,7 +4,7 @@
 
 #### 1. Struktur Modul (*Layered Module Structure*)
 Mengatur pengelompokan kode sumber berdasarkan batasan kognitif dan pemisahan tanggung jawab logis (*Separation of Concerns*).
-
+```text
 +-------------------------------------------------------------------+
 |                     API PRESENTATION LAYER                        |
 |   [ SubscriptionController ]        [ PaymentWebhookController ]  |
