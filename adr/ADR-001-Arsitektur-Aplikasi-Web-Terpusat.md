@@ -7,14 +7,13 @@
 
 ## Context
 
-Sistem Layanan Wisuda BAA UMI membutuhkan platform untuk mendukung:
+Sistem Layanan Wisuda BAA UMI membutuhkan platform untuk mendukung pendaftaran wisuda, pengunggahan dokumen persyaratan, verifikasi berkas, penjadwalan, dan pengambilan dokumen.
 
-- Pendaftaran wisuda.
-- Pengunggahan dan verifikasi berkas.
-- Pengelolaan jadwal layanan.
-- Informasi pengambilan dokumen.
+Keputusan ini berkaitan dengan ASR pada A4 sebagai berikut:
 
-Arsitektur harus mudah diakses, aman, dan mudah dipelihara. Keputusan ini berkaitan dengan ASR pada A4, terutama aksesibilitas dan pemeliharaan sistem.
+- **ASR-1 (Fungsional):** Kebutuhan login dan pengelolaan hak akses memengaruhi rancangan autentikasi serta pemisahan akses mahasiswa dan admin.
+- **ASR-2 (Atribut Kualitas):** Kebutuhan waktu respons yang cepat memengaruhi rancangan pemrosesan permintaan dan komunikasi antarkomponen.
+- **ASR-3 (Batasan):** Teknologi yang ditetapkan organisasi membatasi pilihan bahasa pemrograman, framework, dan teknologi pendukung.
 
 ## Decision
 
