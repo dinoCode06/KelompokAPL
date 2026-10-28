@@ -1,7 +1,6 @@
 # B3. Tiga Struktur Desain
 
 <!-- penanggung jawab: [Muh Fadhil Aqila Salzabil] -->
-### B3. Tiga Struktur Desain Arsitektur
 
 #### 1. Struktur Modul (*Layered Module Structure*)
 Mengatur pengelompokan kode sumber berdasarkan batasan kognitif dan pemisahan tanggung jawab logis (*Separation of Concerns*).
