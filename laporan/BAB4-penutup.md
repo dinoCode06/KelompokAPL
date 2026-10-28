@@ -1,6 +1,6 @@
 # BAB IV. Penutup
 
-<!-- Kesimpulan dan saran. Penanggung jawab: [nama] -->
+<!-- Kesimpulan dan saran. Penanggung jawab: [Muh Fadhil Aqila Salzabil] -->
 
 ## 4.1 Kesimpulan
 
