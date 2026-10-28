@@ -30,7 +30,7 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | A2 | laporan/A2-stakeholder.md |Ihyanul Hakim| Selesai |
 | A3 | laporan/A3-batasan.md |Aldino Jonathan| Selesai |
 | A4 | laporan/A4-asr.md |Muh. Fajrin | Selesai |
-| A5 | laporan/A5-keputusan-arsitektur.md dan adr/ |Aldino Jonathan| Belum |
+| A5 | laporan/A5-keputusan-arsitektur.md dan adr/ |Aldino Jonathan| Selesai |
 | B1 | laporan/B1-karakteristik.md |Muh. Fajrin | Selesai  |
 | B2 | laporan/B2-atribut-terukur.md |Ihyanul Hakim| Selesai |
 | B3 | laporan/B3-tiga-struktur.md dan diagram/ | Fadhil | Belum |
