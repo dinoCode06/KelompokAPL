@@ -1,6 +1,7 @@
 # B5. Analisis Trade-off
 
 <!-- Penanggung jawab: [Muh Fadhil Aqila Salzabil] -->
+
 Pasangan Trade-off 1: Keamanan (Security) vs Performa (Performance Efficiency)
 Dampak Konflik:
 Menerapkan mekanisme keamanan ketat—seperti enkripsi end-to-end (AES-256) pada payload data transaksi sensitif, pemeriksaan token JWT/OAuth2 di setiap lapisan layanan, serta validasi tokenisasi PCI-DSS—menambah beban CPU dan durasi eksekusi algoritma enkripsi. Hal ini secara langsung meningkatkan latensi pemrosesan permintaan (response time) sekitar 15–25% dan menurunkan total throughput transaksi.
