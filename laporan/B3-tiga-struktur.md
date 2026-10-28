@@ -1,10 +1,10 @@
 # B3. Tiga Struktur Desain
 
 <!-- penanggung jawab: [Muh Fadhil Aqila Salzabil] -->
+
 #### 1. Struktur Modul (*Layered Module Structure*)
 Mengatur pengelompokan kode sumber berdasarkan batasan kognitif dan pemisahan tanggung jawab logis (*Separation of Concerns*).
 
-```text
 +-------------------------------------------------------------------+
 |                     API PRESENTATION LAYER                        |
 |   [ SubscriptionController ]        [ PaymentWebhookController ]  |
