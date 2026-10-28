@@ -1,0 +1,39 @@
+# ADR-001: Arsitektur Aplikasi Web Terpusat
+
+- **Status:** Diterima
+- **Tanggal:** 28-10-2026
+- **Pengambil keputusan:** Tim Pengembang Sistem
+
+## Context
+
+Sistem Layanan Wisuda BAA UMI membutuhkan platform yang dapat digunakan mahasiswa untuk melakukan pendaftaran wisuda, mengunggah persyaratan, memantau status verifikasi, serta melihat jadwal dan informasi pengambilan dokumen.
+
+Arsitektur aplikasi harus mempertimbangkan kemudahan akses, pemeliharaan, keamanan, dan keterbatasan sumber daya pengembangan. Keputusan ini berkaitan dengan ASR pada A4, khususnya kebutuhan aksesibilitas layanan, integrasi antarkomponen, dan kemudahan pengembangan sistem.
+
+## Decision
+
+Kami akan menggunakan arsitektur aplikasi web terpusat dengan frontend untuk antarmuka pengguna, backend untuk menjalankan logika bisnis, dan database untuk menyimpan data sistem.
+
+Kami akan memisahkan hak akses mahasiswa dan admin serta menyediakan akses melalui browser tanpa mengharuskan pengguna memasang aplikasi tambahan.
+
+## Consequences
+
+**Dampak positif:**
+- Mahasiswa dan admin dapat mengakses sistem melalui browser.
+- Pengelolaan layanan dan pemeliharaan sistem menjadi lebih terpusat.
+- Pengembangan fitur dapat dilakukan secara bertahap.
+- Pembaruan sistem dapat diterapkan tanpa memasang ulang aplikasi pada setiap perangkat pengguna.
+
+**Dampak negatif:**
+- Sistem bergantung pada ketersediaan server dan jaringan internet.
+- Gangguan pada server dapat memengaruhi banyak pengguna sekaligus.
+- Sistem membutuhkan pemeliharaan keamanan dan pencadangan secara berkala.
+
+Trade-off yang diterima adalah ketergantungan pada server untuk memperoleh kemudahan akses dan pengelolaan terpusat.
+
+## Compliance
+
+- Melakukan tinjauan kode untuk memastikan pemisahan antarmuka, logika bisnis, dan akses database diterapkan sesuai rancangan.
+- Menguji fungsi utama pendaftaran, verifikasi, penjadwalan, dan pengambilan dokumen.
+- Menguji pembatasan hak akses mahasiswa dan admin.
+- Memeriksa ketersediaan sistem serta melakukan pencadangan data secara berkala.
